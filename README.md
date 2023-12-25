@@ -1,2 +1,2 @@
 # Basic-Capstone-Project
-Django-project
+[Univ] Django-project 2023-03 ~ 2023-05
